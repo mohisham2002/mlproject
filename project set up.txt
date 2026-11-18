@@ -1,0 +1,5 @@
+1. use anaconda prompt and load path and code . to get vs code
+2. in vs code cmd use this for project setup
+   ex-(conda create -p venv python==3.8 -y )
+
+3. 
